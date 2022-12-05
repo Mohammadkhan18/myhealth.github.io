@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+.hit{
+    margin-top: 70px;
+}
+.h5{
+    font-family:Oswald ;
+ } 
+ .hori{
+    border-top: 3px solid;
+ }  
+ .mail{
+    margin-top: 230px;
+    margin-left:50px ;
+ }
+#sleepsec{
+    margin-top: 210px;
+    margin-right: 200px;
+    margin-left:60px ;
+}
+#nutsec{
+    margin-top: 230px;
+    margin-right: 200px;
+    margin-left:50px ;
+}
+#worksec{
+    margin-top: 230px;
+    margin-right: 200px;
+    margin-left:50px ;
+}
+.health{
+    font-size: 2rem;
+    text-align: center;
+    font-family:Oswald ;
+    margin-top: 100px;
+}
